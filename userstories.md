@@ -47,3 +47,25 @@ Constraints: Looking for images for individual user and only looking in acceptab
 Effort Estimation: 5 person-hours.
 
 Acceptance Test: Once identified the preferences of a certain user then the team must make sure that the app is actually looking for images that are on the preferences of the user.
+
+# 1.5 Adoption Suggestions.
+As a developer, I want to use the preferences of the user to give suggestions for adoption.
+
+Elaboration: Once the preferences are identified then the team aims to search certain webpages of animal shelters to look for animals that match those preferences.
+
+Constraints: none.
+
+Effort Estimation: 5 person-hours.
+
+Acceptance Test: Perform a test where the user should receive some adoption suggestions, in this test the adoption suggestions should fit into what the user already has recorded in his preferences.
+
+# 1.6 Export Preferences to CSV
+As a developer, I want to give the user access to the data that was collected.
+
+Elaboration: The user should be able to see the choices he made, this should show the user on which types of dogs he liked the most out of the catalog and which were the most disliked.
+
+Constraints: none.
+
+Effort Estimation: 3 person-hours.
+
+Acceptance Test: perform a export operation and revise the data in the CSV file. To make sure that it can be exported correctly to other devices 
