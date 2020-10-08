@@ -1,9 +1,9 @@
 # User Stories
 
-# 1. Develop an app
+# 1. App for Looking at Dogs
 As a user, I want an app that will show me picture of dogs and identify which types of dog breeds are my favorite.
 
-# 1.1 Create the layout
+# 1.1 Simple the layout
 As a user, I want a simple interface that is uncluttered and easy to navigate.
 
 Elaboration: The user should be able to see every button and picture in the intended place.
